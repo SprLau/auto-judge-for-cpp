@@ -20,6 +20,8 @@ When you finish building your data generator in `data.py`, and making sure every
 bash judge.bash --times
 ```
 
+> like ***bash judge.bash 50***
+
 in your **Terminal**, where `times` is how many sets of data you want to test.
 
 If an error’s been found, you’ll see:

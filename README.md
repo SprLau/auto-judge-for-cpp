@@ -4,7 +4,7 @@
 
 ### Prerequisites
 
-**You’ll need: **
+You’ll need:
 
 1. The ability to build your own data generator with *Python*, in `data.py`;
 2. A standard, or already-knew-it-is-correct, code to be `std.cpp`;

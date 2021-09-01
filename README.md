@@ -7,7 +7,7 @@
 You’ll need:
 
 1. The ability to build your own data generator with *Python*, in `data.py`;
-2. A standard, or already-knew-it-is-correct, code to be `std.cpp`;
+2. A standard code, or the one that you tryna compare with, to be `std.cpp`;
 3. Your code to be tested, here is `test.cpp`.
 
 ------

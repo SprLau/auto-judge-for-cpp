@@ -2,7 +2,7 @@ import random
 
 txt_file = open("data.txt", "w+")
 
-def print_to_file(something, end):
+def print_to_file(something, end='\n'):
     print(something, end=end, file=txt_file)
 
 #####################################################################
